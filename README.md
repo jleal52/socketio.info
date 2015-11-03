@@ -1,7 +1,11 @@
 # socketio.info
 Connector for socketio.info cloud platform.
 
-Move your current socket.io implementation to the cloud. Request a beta preview host and password to info@socketio.info
+Move your current socket.io implementation to the cloud.
+
+socketio.info uses standard socket.io server as it's backend!
+
+Request a beta preview host and password to info@socketio.info
 
 
 Change your server side code from this:
