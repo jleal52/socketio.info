@@ -1,7 +1,7 @@
 
 
 var EventEmitter = require('events').EventEmitter;
-
+var io = require('socket.io-client');
 
 module.exports = ioCloud;
 

@@ -1,6 +1,6 @@
 {
   "name": "socketio.info",
-  "version": "0.6.0",
+  "version": "0.6.1",
   "description": "socketio.info client. Emulates socket.io server funcionality",
   "author": {
     "name": "Jorge L.",
@@ -8,5 +8,8 @@
   },
   "repository": "github:jleal52/socketio.info",
   "license": "MIT",
-  "main": "iocloud-client.js"
+  "main": "iocloud-client.js",
+   "dependencies": {
+    "socket.io-client": "socketio/socket.io-client#d125da3"
+   }
 }
